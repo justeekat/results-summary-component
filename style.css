@@ -57,7 +57,7 @@ body {
 
 .card-right {
   border-radius: 32px;
-  padding: 20px;
+  padding: 30px;
   display: flex;
   flex-direction: column;
   align-items: center;
